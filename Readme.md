@@ -33,12 +33,16 @@ Las opciones posibles son:
 ##Ejemplo
 
 Palabra clave: MISION
+
 Texto original: ESTE MENSAJE SE AUTODESTRUIRA
+
 ESTEME	NSAJES EAUTOD ESTRUI RA
+
 MISION	MISION MISION MISION MI
+
 QALMAR	ZASRSF QIMBCQ QALZIV DI
 
 Texto cifrado: QALMARZASRSFQIMBCQQALZIVDI
 
-
+--------------------------------------------------------------------------
 *Aarón Socas Gaspar- Seguridad de Sistemas Informáticos (Curso 2013-2014)*
