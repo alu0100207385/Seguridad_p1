@@ -1,6 +1,6 @@
 **Autor: Aarón Socas Gaspar**
 
-CIFRADO DE VIGENERE
+# CIFRADO DE VIGENERE
 
 ##Objetivo
 
@@ -20,8 +20,7 @@ sucesivamente.
 
 ##Ejecución
 
-Con el comando `$ rake -T` podemos ver las opciones posibles.
-Las opciones posibles son:
+Con el comando `$ rake -T` podemos ver las opciones posibles:
 
 ```
     1. rake bin  		# Ejecutar programa
